@@ -5,3 +5,4 @@ rencana kontenku:
   * ES6
   * REACT
   * VUE
+-stucture data
