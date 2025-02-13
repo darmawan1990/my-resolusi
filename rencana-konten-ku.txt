@@ -4,3 +4,4 @@ rencana kontenku:
 -javascript
   * ES6
   * REACT
+  * VUE
