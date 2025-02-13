@@ -1,0 +1,7 @@
+rencana kontenku:
+-html
+-css
+-javascript
+  * ES6
+  * REACT
+  * VUE
